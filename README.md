@@ -2,7 +2,7 @@
 
 # VENM
 
-<img src="https://raw.githubusercontent.com/jluterek/awesome-venm/master/VENM.png" alt="VENM stack" style="max-width:100px" />
+<img src="https://raw.githubusercontent.com/jluterek/awesome-venm/master/VENM.png" alt="VENM stack" width="100" />
 
 A curated list of awesome projects using the VENM stack
 
